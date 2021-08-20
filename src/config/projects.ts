@@ -13,10 +13,10 @@ export interface ProjectProps {
 
 export const projects: ProjectProps[] = [
   {
-    name: 'Substats',
-    link: 'https://github.com/spencerwooo/substats',
-    slug: 'spencerwooo/substats',
-    bimg: substats,
+    name: 'plz-download',
+    link: 'https://github.com/winkxx/plz-download',
+    slug: 'winkxx/plz-download',
+    bimg: plz-download,
   },
   {
     name: 'onedrive-vercel-index',
